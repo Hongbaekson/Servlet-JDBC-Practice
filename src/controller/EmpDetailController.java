@@ -48,7 +48,7 @@ public class EmpDetailController extends HttpServlet {
 		
 		// 사원 정보 상세 조회하기 - EmpService객체 이용
 		
-//		Emp res = empService.detail(empno);
+		//Emp res = empService.detail(empno);
 		
 	
 	

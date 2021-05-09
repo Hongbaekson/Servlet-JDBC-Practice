@@ -23,7 +23,7 @@ public class JDBCTemplate {
 		
 	};
 	
-	//db연결 객체 
+	 //db연결 객체 
 	private static Connection conn;
 	
 	//Connection 객체 반환 - 싱글톤 적용 
