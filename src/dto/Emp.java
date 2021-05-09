@@ -13,11 +13,11 @@ public class Emp {
 	private int empno;  // 직원 번호
 	private String ename; // 직원이름 
 	private String job; //직업 
-	private int mgr; 
-	private Date hiredate;
-	private double sal;
-	private double comm;
-	private int deptno;
+	private int mgr;  //  매니저 
+	private Date hiredate;  // 고용날짜 
+	private double sal; // 월급 
+	private double comm; // 커미션 
+	private int deptno; // 부서번호 
 	
 	@Override
 	public String toString() {
