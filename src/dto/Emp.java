@@ -9,10 +9,11 @@ public class Emp {
 	//toString 자동 생성 단축키 : alt + shift + s, s
 	//getters, setters 자동 생성 단축키 : alt + shift + s, r
 	
-	private int empno;
-	private String ename;
-	private String job;
-	private int mgr;
+	
+	private int empno;  // 직원 번호
+	private String ename; // 직원이름 
+	private String job; //직업 
+	private int mgr; 
 	private Date hiredate;
 	private double sal;
 	private double comm;
